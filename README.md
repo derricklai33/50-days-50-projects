@@ -5,3 +5,7 @@ Completing [50 Projects 50 Days](https://www.udemy.com/course/50-projects-50-day
 ## Day 1 - Expanding Cards
 Project Demo
 ![](./demo-gifs/Day1-gif.gif)
+
+## Day 2 - Progress Steps
+Project Demo
+![](./demo-gifs/Day2-gif.gif)
