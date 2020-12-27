@@ -17,3 +17,7 @@ Project Demo <br>
 ## Day 4 - Hidden Search Widget
 Project Demo <br>
 ![](./demo-gifs/Day4-gif.gif)
+
+## Day 5 - Blurry Loading
+Project Demo <br>
+![](./demo-gifs/Day5-gif.gif)
