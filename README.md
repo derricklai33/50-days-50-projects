@@ -21,3 +21,7 @@ Project Demo <br>
 ## Day 5 - Blurry Loading
 Project Demo <br>
 ![](./demo-gifs/Day5-gif.gif)
+
+## Day 6 - Scrolling Animation + Pokemon Api call
+Project Demo <br>
+![](./demo-gifs/Day6-gif.gif)
