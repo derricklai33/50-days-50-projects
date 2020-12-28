@@ -24,4 +24,6 @@ Project Demo <br>
 
 ## Day 6 - Scrolling Animation + Pokemon Api call
 Project Demo <br>
+**Golem** is not a Pokemon and it somehow came about from the API call 😅 <br>
+Pokemons are from the first generation, which is 151 Pokemon in total! <br> <br>
 ![](./demo-gifs/Day6-gif.gif)
