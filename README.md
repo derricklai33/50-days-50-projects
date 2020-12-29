@@ -27,3 +27,8 @@ Project Demo <br>
 **Golem** is not a Pokemon and it somehow came about from the API call 😅 <br>
 Pokemons are from the first generation, which is 151 Pokemon in total! <br> <br>
 ![](./demo-gifs/Day6-gif.gif)
+
+## Day 7 - Split Landing Page + audio on hover
+Project Demo <br>
+Added Pikachu and Eevee voice/cry to play on hover <br> <br>
+![](./demo-gifs/Day7-gif.gif)
