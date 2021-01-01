@@ -41,3 +41,7 @@ Project Demo <br>
 Project Screenshot <br>
 Used some memes as inspiration for my sound board. No project gif as gifs cannot play audio! **_Warning!_** Thomas the Train is **REALLY REALLY LOUD!** <br> <br>
 ![](./demo-gifs/Day9-SS.png)
+
+## Day 10 - Dad Jokes
+Project Demo <br>
+![](./demo-gifs/Day10-gif.gif)
