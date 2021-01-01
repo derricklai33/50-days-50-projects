@@ -36,3 +36,8 @@ Added Pikachu and Eevee voice/cry to play on hover <br> <br>
 ## Day 8 - Form Input Wave
 Project Demo <br>
 ![](./demo-gifs/Day8-gif.gif)
+
+## Day 8 - Form Input Wave
+Project Screenshot <br>
+Used some memes as inspiration for my sound board. No project gif as gifs cannot play audio! **_Warning!_** Thomas the Train is **REALLY REALLY LOUD!** <br> <br>
+![](./demo-gifs/Day9-SS.png)
