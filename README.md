@@ -45,3 +45,7 @@ Used some memes as inspiration for my sound board. No project gif as gifs cannot
 ## Day 10 - Dad Jokes
 Project Demo <br>
 ![](./demo-gifs/Day10-gif.gif)
+
+## Day 11 - Event Keycode
+Project Demo <br>
+![](./demo-gifs/Day11-gif.gif)
