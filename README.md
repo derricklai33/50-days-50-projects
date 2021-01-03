@@ -49,3 +49,7 @@ Project Demo <br>
 ## Day 11 - Event Keycode
 Project Demo <br>
 ![](./demo-gifs/Day11-gif.gif)
+
+## Day 12 - FAQ Boxes
+Project Demo <br>
+![](./demo-gifs/Day12-gif.gif)
