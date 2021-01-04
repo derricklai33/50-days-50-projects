@@ -53,3 +53,7 @@ Project Demo <br>
 ## Day 12 - FAQ Boxes
 Project Demo <br>
 ![](./demo-gifs/Day12-gif.gif)
+
+## Day 13 - Random Choce Picker
+Project Demo <br>
+![](./demo-gifs/Day13-gif.gif)
