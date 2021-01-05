@@ -57,3 +57,7 @@ Project Demo <br>
 ## Day 13 - Random Choce Picker
 Project Demo <br>
 ![](./demo-gifs/Day13-gif.gif)
+
+## Day 14 - Animated Navigation
+Project Demo <br>
+![](./demo-gifs/Day14-gif.gif)
