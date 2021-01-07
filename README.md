@@ -65,3 +65,7 @@ Project Demo <br>
 ## Day 15 - Increment Counter
 Project Demo <br>
 ![](./demo-gifs/Day15-gif.gif)
+
+## Day 16 - Drinking Water
+Project Demo <br>
+![](./demo-gifs/Day16-gif.gif)
