@@ -69,3 +69,7 @@ Project Demo <br>
 ## Day 16 - Drinking Water
 Project Demo <br>
 ![](./demo-gifs/Day16-gif.gif)
+
+## Day 17 - Movie App
+Project Demo <br>
+![](./demo-gifs/Day17-gif.gif)
