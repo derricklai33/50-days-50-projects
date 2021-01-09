@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Day 18: Background Slider</title>
+</head>
+<body>
+    <div class="slider-container">
+        <div class="slide active" style="background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31ccb3d5-2c06-4c5e-9ae0-12c53746ddf5/d7uh8tz-7ac06505-98d3-40ad-acdf-fdda238025b2.jpg/v1/fill/w_900,h_621,q_75,strp/pokemon___mega_salamence_by_sa_dui_d7uh8tz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MjEiLCJwYXRoIjoiXC9mXC8zMWNjYjNkNS0yYzA2LTRjNWUtOWFlMC0xMmM1Mzc0NmRkZjVcL2Q3dWg4dHotN2FjMDY1MDUtOThkMy00MGFkLWFjZGYtZmRkYTIzODAyNWIyLmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.I5lhlIlGsy3e6GEwN4bLykjjM3wtOQYlUiI1S9HyD5w');"></div>
+        <div class="slide" style="background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31ccb3d5-2c06-4c5e-9ae0-12c53746ddf5/da1vpbv-fb97e5af-25ce-45a8-8855-aa14eff96802.jpg/v1/fill/w_600,h_423,q_75,strp/pokemon___espeon_speed_paint_by_sa_dui_da1vpbv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00MjMiLCJwYXRoIjoiXC9mXC8zMWNjYjNkNS0yYzA2LTRjNWUtOWFlMC0xMmM1Mzc0NmRkZjVcL2RhMXZwYnYtZmI5N2U1YWYtMjVjZS00NWE4LTg4NTUtYWExNGVmZjk2ODAyLmpwZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.i0fII7mfAjM4XFhPkhWWg402d2tNsj0rOZe-db889Go')"></div>
+        <div class="slide" style="background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31ccb3d5-2c06-4c5e-9ae0-12c53746ddf5/d9n2klm-999dcc59-0a20-4bce-b566-81607f99743b.jpg/v1/fill/w_800,h_800,q_75,strp/commission___rhydon_by_sa_dui_d9n2klm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD04MDAiLCJwYXRoIjoiXC9mXC8zMWNjYjNkNS0yYzA2LTRjNWUtOWFlMC0xMmM1Mzc0NmRkZjVcL2Q5bjJrbG0tOTk5ZGNjNTktMGEyMC00YmNlLWI1NjYtODE2MDdmOTk3NDNiLmpwZyIsIndpZHRoIjoiPD04MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.7cxoAfoZfOdwUDAkZoLqMOA9FgJKMN1eq7RdP6ltfGM')"></div>
+        <div class="slide" style="background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31ccb3d5-2c06-4c5e-9ae0-12c53746ddf5/d8hunzu-27edc88e-0bd3-482c-b47d-053974f1f2e6.jpg/v1/fill/w_874,h_914,q_70,strp/pokemon___valentine_2015_by_sa_dui_d8hunzu-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD05NDEiLCJwYXRoIjoiXC9mXC8zMWNjYjNkNS0yYzA2LTRjNWUtOWFlMC0xMmM1Mzc0NmRkZjVcL2Q4aHVuenUtMjdlZGM4OGUtMGJkMy00ODJjLWI0N2QtMDUzOTc0ZjFmMmU2LmpwZyIsIndpZHRoIjoiPD05MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.wRiX89QuCxOptuZZba0-p-djai9cr_UDSjtr4Llzf6I')"></div>
+        <div class="slide" style="background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31ccb3d5-2c06-4c5e-9ae0-12c53746ddf5/dbzgdnw-43e7a3f3-ec6b-4f10-bad9-2872d45214e3.jpg/v1/fill/w_900,h_1258,q_75,strp/commission___aoh_nature_by_sa_dui_dbzgdnw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMjU4IiwicGF0aCI6IlwvZlwvMzFjY2IzZDUtMmMwNi00YzVlLTlhZTAtMTJjNTM3NDZkZGY1XC9kYnpnZG53LTQzZTdhM2YzLWVjNmItNGYxMC1iYWQ5LTI4NzJkNDUyMTRlMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Z4fexrmZaCGIv1RK0P5zRpgzNBh7qlYedDfqTHSoUxM')"></div>
+       
+
+        <button class="arrow left-arrow" id="left">
+            <i class="fas fa-arrow-left"></i>
+        </button>
+
+        <button class="arrow right-arrow" id="right">
+            <i class="fas fa-arrow-right"></i>
+        </button>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>
