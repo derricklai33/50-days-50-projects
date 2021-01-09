@@ -73,3 +73,7 @@ Project Demo <br>
 ## Day 17 - Movie App
 Project Demo <br>
 ![](./demo-gifs/Day17-gif.gif)
+
+## Day 18 - Background Slider
+Project Demo <br>
+![](./demo-gifs/Day18-gif.gif)
