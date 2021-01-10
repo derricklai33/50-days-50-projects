@@ -77,3 +77,7 @@ Project Demo <br>
 ## Day 18 - Background Slider
 Project Demo <br>
 ![](./demo-gifs/Day18-gif.gif)
+
+## Day 19 - Themed Clock
+Project Demo <br>
+![](./demo-gifs/Day19-gif.gif)
