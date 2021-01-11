@@ -81,3 +81,7 @@ Project Demo <br>
 ## Day 19 - Themed Clock
 Project Demo <br>
 ![](./demo-gifs/Day19-gif.gif)
+
+## Day 20 - Button Ripple Effect
+Project Demo <br>
+![](./demo-gifs/Day20-gif.gif)
