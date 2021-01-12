@@ -85,3 +85,7 @@ Project Demo <br>
 ## Day 20 - Button Ripple Effect
 Project Demo <br>
 ![](./demo-gifs/Day20-gif.gif)
+
+## Day 21 - Drag and Drop
+Project Demo <br>
+![](./demo-gifs/Day21-gif.gif)
