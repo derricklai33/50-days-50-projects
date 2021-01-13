@@ -89,3 +89,7 @@ Project Demo <br>
 ## Day 21 - Drag and Drop
 Project Demo <br>
 ![](./demo-gifs/Day21-gif.gif)
+
+## Day 22 - Drawing Pad
+Project Demo <br>
+![](./demo-gifs/Day22-gif.gif)
