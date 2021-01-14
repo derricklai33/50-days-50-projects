@@ -93,3 +93,7 @@ Project Demo <br>
 ## Day 22 - Drawing Pad
 Project Demo <br>
 ![](./demo-gifs/Day22-gif.gif)
+
+## Day 23 - Kinetic Loader
+Project Demo <br>
+![](./demo-gifs/Day23-gif.gif)
