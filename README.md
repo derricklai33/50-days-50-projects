@@ -100,4 +100,4 @@ Project Demo <br>
 
 ## Day 24 - Content Placeholder
 Project Demo <br>
-![](./demo-gifs/Day23-gif.gif)
+![](./demo-gifs/Day24-gif.gif)
