@@ -97,3 +97,7 @@ Project Demo <br>
 ## Day 23 - Kinetic Loader
 Project Demo <br>
 ![](./demo-gifs/Day23-gif.gif)
+
+## Day 24 - Content Placeholder
+Project Demo <br>
+![](./demo-gifs/Day23-gif.gif)
