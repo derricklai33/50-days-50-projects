@@ -101,3 +101,7 @@ Project Demo <br>
 ## Day 24 - Content Placeholder
 Project Demo <br>
 ![](./demo-gifs/Day24-gif.gif)
+
+## Day 25 - Sticky Navbar
+Project Demo <br>
+![](./demo-gifs/Day25-gif.gif)
